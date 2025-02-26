@@ -1,6 +1,6 @@
 /********************************************************************************************
 
-Filename:	apb_interface.v   
+Filename:	apb.v   
 
 Description:	APB Interface drives APB Signals
 

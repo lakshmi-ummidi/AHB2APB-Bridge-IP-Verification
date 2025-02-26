@@ -1,6 +1,6 @@
 /********************************************************************************************
 
-Filename:	ahb_apb_top.v   
+Filename:	apb_controller.v   
 
 Description:	APB controller controls the Burst mode of operation
 

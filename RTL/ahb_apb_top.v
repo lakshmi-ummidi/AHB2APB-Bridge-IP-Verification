@@ -15,12 +15,11 @@ Filename:	ahb_apb_top.v
 
 Description:    AHB-APB bridge top integrates AHB Slave & APB Controller
 
-Date:		27/03/2013
+Date:		15/09/2024
 
-Author:		Susmita Nayak
+Author:		Lakshmi Ummidi
 
-Email:		siva@maven-silicon.com
-		siva@aceic.com
+Email:		lakshmiummidi@gmail.com
 
 Version:	2.0
 

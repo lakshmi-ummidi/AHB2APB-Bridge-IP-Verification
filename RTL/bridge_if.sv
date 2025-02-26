@@ -1,3 +1,18 @@
+/********************************************************************************************
+
+Filename:	bridge_if.v   
+
+Description:    AHB interface and APB interface to connect DUT to Test bench
+
+Date:		15/09/2024
+
+Author:		Lakshmi Ummidi
+
+Email:		lakshmiummidi298@gmail.com
+
+Version:	2.0
+
+*********************************************************************************************/
 interface ahb_if(input bit HCLK);
 	logic HRESETn;
 	logic [1:0]HTRANS;
